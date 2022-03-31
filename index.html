@@ -73,7 +73,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class="dropdown">
 					  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reciente <b class="caret"></b></a>
 					  <ul class="dropdown-menu">
-						<li><a href="typography.html">Convocatorias</a></li>
+						<li><a href="convocatoria.html">Convocatorias</a></li>
 						<li><a href="projects.html">Proyectos</a></li>
 					  </ul>
 					</li>
